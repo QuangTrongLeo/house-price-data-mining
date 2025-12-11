@@ -1,0 +1,6 @@
+{
+    "sequence_length": 12,
+    "n_features": 1,
+    "target": "SalePrice",
+    "model_type": "LSTM"
+}
